@@ -1,0 +1,11 @@
+{
+  "name": "UX-proto",
+  "version": "0.0.0",
+  "dependencies": {
+
+    "jquery": "~2.1.1",
+    "susy": "~2.2.2"
+
+  },
+  "devDependencies": {}
+}
